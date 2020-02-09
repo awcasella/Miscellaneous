@@ -11,11 +11,15 @@ This repo contains the following items:
 - **MatLab:**
   - Command Window Easter Eggs: For example, if you type "fifteen" in the command line, then this GUI shows up.
 
-  ![](Screenshots/fifteen.jpg)
+  <p align="center">
+	<img src="Screenshots/fifteen.jpg" height=200 width=200>
+  </p>
   
 - **Python:**
   - Generation of QR Codes:
-  ![](Screenshots/qrcode.png)
+  <p align="center">
+	<img src="Screenshots/qrcode.png" height=300 width=400>
+  </p>
 
 # Getting Started
 
