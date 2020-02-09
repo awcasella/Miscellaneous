@@ -6,8 +6,7 @@ A repository containing a variety of interesting things, which can have been wri
 This repo contains the following items:
 
 - **C++:**
-  - Operator Overload: A nice way to implement your usage of any basic operator such as +, -, *, /, [], = and more. Only need to implement methods called operator<op> inside the classes you created. 
-	For instance, method operator+() redefines what the usage of + can do for the class created.
+  - Operator Overload: A nice way to implement your usage of any basic operator such as +, -, *, /, [], = and more. Only need to implement methods called operator<op> inside the classes you created. For instance, method "operator+" redefines what the usage of "+" can do for the class created.
 
 - **MatLab:**
   - Command Window Easter Eggs: For example, if you type "fifteen" in the command line, then this GUI shows up.
