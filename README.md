@@ -12,13 +12,13 @@ This repo contains the following items:
   - Command Window Easter Eggs: For example, if you type "fifteen" in the command line, then this GUI shows up.
 
   <p align="center">
-	<img src="Screenshots/fifteen.jpg" height=200 width=200>
+	<img src="Screenshots/fifteen.jpg" height=300 width=300>
   </p>
   
 - **Python:**
   - Generation of QR Codes:
   <p align="center">
-	<img src="Screenshots/qrcode.png" height=300 width=400>
+	<img src="Screenshots/qrcode.png" height=400 width=500>
   </p>
 
 # Getting Started
