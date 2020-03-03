@@ -27,8 +27,6 @@ Instalation of compilers, interpreters and dependencies needed to run the codes 
 
 **Python**
 
-Instalation of Anaconda in Linux Ubuntu 18.04 can be found [here](https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04).
-
 	$ pip3 install pyqrcode
 	
 **C++**
